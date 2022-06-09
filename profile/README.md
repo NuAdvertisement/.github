@@ -1,7 +1,7 @@
-# Hi, Dawei Cui, Abhi, and Hilda ! 👋
+# Hi ! 👋
 
 ### Currently, our repositories are in private mode.
-### We have sent the member invitation link to startuphackathonsg-submissions@ google.com, cuid @google.com, abhishekbhgwt @google.com and hildapoh @google.com.
+### If you are a member of NuAdvertisement,
 ### Please accept our invitation to view all of our repositories.
 
 ### Thank you! :)
